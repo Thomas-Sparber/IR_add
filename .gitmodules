@@ -1,0 +1,9 @@
+[submodule "Dependencies/AudioFile"]
+	path = Dependencies/AudioFile
+	url = https://github.com/adamstark/AudioFile.git
+[submodule "Dependencies/NeuralAmpModelerCore"]
+	path = Dependencies/NeuralAmpModelerCore
+	url = https://github.com/sdatkinson/NeuralAmpModelerCore
+[submodule "Dependencies/AudioDSPTools"]
+	path = Dependencies/AudioDSPTools
+	url = https://github.com/sdatkinson/AudioDSPTools
